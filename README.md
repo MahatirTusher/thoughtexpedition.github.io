@@ -227,4 +227,4 @@ PORT=5000
 ## Conclusion
 GitOrbit redefines developer collaboration by combining **GitHub API integration**, **Genkit-AI** intelligence, and **client-side storage** into a powerful, privacy-focused platform. Its codex-inspired UI, real-time chatbox, commit sidebar with AI-driven explanations, and downloadable repository notes make it an invaluable tool for modern development workflows. With Firebase Studio’s rapid prototyping capabilities, GitOrbit is poised to empower developers with seamless, offline-capable repository exploration and collaboration.
 
-For contributions or feedback, visit the [GitOrbit repository](https://github.com/Mahatir-Ahmed-Tusher/studio) and join the journey to transform developer productivity.
+For contributions or feedback, visit the [GitOrbit repository](https://github.com/Mahatir-Ahmed-Tusher/GitOrbit) and join the journey to transform developer productivity.
